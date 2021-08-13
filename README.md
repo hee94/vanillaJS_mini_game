@@ -2,7 +2,7 @@
 
   #### 개발환경💻  
    <img src="https://img.shields.io/badge/-Javascript-%23ec9d93?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/-CSS-%23d7b0f0?style=flat-square&logo=PostCSS&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/-CSS-%23d7b0f0?style=flat-square&logo=CSS&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/-HTML-%23f0d7b0?style=flat-square&logo=HTML5&logoColor=white"></a>
     
   개발인원 ✋  : 1명
