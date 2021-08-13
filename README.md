@@ -9,7 +9,9 @@
   
   ### 프로젝트 소개 💬   
 <a href="https://hee94.github.io/vanillaJS_mini_game/" target="_blank">
+  
 미니게임</a>   
+<https://hee94.github.io/vanillaJS_mini_game/>{: target="_blank"}
 
 
 ```
